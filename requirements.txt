@@ -1,0 +1,7 @@
+black
+fastapi
+pytest
+pylint
+uvicorn[standard]
+pytest-cov
+yake==0.4.8
